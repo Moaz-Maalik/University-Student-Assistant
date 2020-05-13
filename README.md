@@ -4,13 +4,10 @@ A Web-Application written in Spring-Boot
 The application has the following Classses and Functionalities 
 
 
-TimeTable 
-
+TimeTable
 Short Description :
-
 This class would be implemented using the Singleton Creational Design pattern. It will hold an array list of Cell and one cell would consist, of course, its time and the instructor. 
 Methods:
-
 Create Optimal TimeTable
 This function takes an input list of User courses and finds the most optimal timetable using a stored algorithm
 Help in TimeTable

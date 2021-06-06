@@ -10,3 +10,14 @@ Our app’s user base consists entirely of University Student, and in the curren
 Our first two features solve the problem of a few registration issues and Chill Spot Finder is a really handy feature. Our app ensures full automation of mundane tasks that students had to perform, enabling students to focus more on useful tasks.
 
 Read Documentation.docx for complete implementation details.
+
+
+**Setting up the repository**
+
+Make sure you have java and Spring Boot installed 
+
+**Steps**
+
+Open your editor and then open the project file with it .
+
+
